@@ -1,3 +1,9 @@
 body {
     background-color: black;
 }
+
+.topHeading {
+    color: white;
+    text-align: center;
+    font-size: 2em;
+}
