@@ -14,7 +14,7 @@ The Coding Club website is a landing page for parents and children looking for a
 
 ## How to View the Project
 
-- [View the deployed website](https://username.github.io/codingclub/)
+- [View the deployed website](https://Rebeljoka.github.io/my-first-project/)
 
 ## Credits
 
